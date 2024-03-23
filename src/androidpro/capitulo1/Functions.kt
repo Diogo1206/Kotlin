@@ -1,6 +1,5 @@
 package androidpro.capitulo1
 
-import java.sql.Date
 
 fun main() {
     olaMundo()
@@ -15,7 +14,7 @@ fun soma(a: Int, b: Int): Int {
 }
 fun queHorasSao(): java.util.Date {
     return java.util.Date()
-    println()
+
 
 }
 fun olaMundo() {
